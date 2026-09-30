@@ -1,10 +1,31 @@
-# Lucy for Mac and Windows
+<div align="center">
 
-### A Collision product
+# Lucy
 
-Lucy is a desktop assistant that helps you work with documents, spreadsheets, and everyday tasks.
+**Your desktop assistant for Mac and Windows**
 
-## Get Lucy
+A product by **Collision**
+
+[Explore downloads](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases)
+
+</div>
+
+---
+
+## Meet Lucy
+
+Lucy helps you work with documents, spreadsheets, and everyday tasks through conversation.
+
+- **Documents** ? Review files and ask questions about their contents.
+- **Spreadsheets** ? Explore tables, check figures, and understand your data.
+- **Everyday work** ? Get help with tasks on your computer.
+
+## Download
+
+Choose the version for your computer from the [downloads page](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases). Published versions appear below; **coming soon** means a download is not available yet.
+
+<details>
+<summary><strong>Versions and download details</strong></summary>
 
 | | Download | Version | Date | Size | Downloads | Checksum (SHA-256) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,13 +36,14 @@ Lucy is a desktop assistant that helps you work with documents, spreadsheets, an
 | **Windows 64-bit (x64)** | coming soon | | | | | |
 <!-- downloads:win:end -->
 
-**Mac.** One download works on every Mac: open the installer and drag Lucy into Applications. If macOS blocks the first launch,
-open **System Settings, Privacy & Security** and choose **Open Anyway**.
+</details>
 
-**Windows.** Unzip the download and open `Lucy.exe`. If Windows shows a blue notice, choose **More info**, then **Run anyway**.
+## Get started
 
-Lucy asks for a **license code** when it first opens, and starts only after the code is accepted. Contact the Collision team to receive one.
+1. **Install Lucy.** On Mac, open the installer and drag Lucy into Applications. On Windows, extract the download and open Lucy.
+2. **Activate your access.** Enter the license code provided by the Collision team.
+3. **Start a conversation.** Tell Lucy what you would like help with.
 
-## Support
+## Access & support
 
-For access or assistance, contact the Collision team.
+Contact the **Collision team** for a license code or help getting started.
