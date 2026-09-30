@@ -9,7 +9,7 @@
 Your desktop assistant for **Mac & Windows**.<br />
 Bring your questions, your files, and your next idea.
 
-**A product by Collision**
+**A product by [Collision](https://www.collitech.org/)**
 
 [Downloads](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases) &nbsp;&middot;&nbsp; [Get started](#get-started) &nbsp;&middot;&nbsp; [Access & support](#access--support)
 
@@ -53,10 +53,10 @@ Find your version on the [downloads page](https://github.com/Babayev-cyber/LucyA
 
 ## Access & support
 
-Contact the **Collision team** for a license code or help getting started.
+Contact the **[Collision team](https://www.collitech.org/)** for a license code or help getting started.
 
 ---
 
 <div align="center">
-<sub>Lucy &middot; By Collision &middot; Made for your everyday work.</sub>
+<sub>Lucy &middot; By <a href="https://www.collitech.org/">Collision</a> &middot; Made for your everyday work.</sub>
 </div>
