@@ -1,28 +1,35 @@
 <div align="center">
 
+<img src="assets/lucy-logo.png" alt="Lucy logo" width="128" />
+
 # Lucy
 
-**Your desktop assistant for Mac and Windows**
+### A little less busywork. A little more possibility.
 
-A product by **Collision**
+Your desktop assistant for **Mac & Windows**.<br />
+Bring your questions, your files, and your next idea.
 
-[Explore downloads](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases)
+**A product by Collision**
+
+[Downloads](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases) &nbsp;&middot;&nbsp; [Get started](#get-started) &nbsp;&middot;&nbsp; [Access & support](#access--support)
 
 </div>
 
 ---
 
-## Meet Lucy
+## Your work, with Lucy
 
-Lucy helps you work with documents, spreadsheets, and everyday tasks through conversation.
+From a quick question to a closer look at your data, Lucy helps you move forward through conversation.
 
-- **Documents** ? Review files and ask questions about their contents.
-- **Spreadsheets** ? Explore tables, check figures, and understand your data.
-- **Everyday work** ? Get help with tasks on your computer.
+| Documents | Spreadsheets | Everyday tasks |
+| :--- | :--- | :--- |
+| Find the key points. Ask about the details. | Explore tables, check figures, and understand your data. | Get help with files and tasks on your computer. |
+
+**Start with a simple request.** Ask Lucy to summarize a document, explain a spreadsheet, or help you take the next step.
 
 ## Download
 
-Choose the version for your computer from the [downloads page](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases). Published versions appear below; **coming soon** means a download is not available yet.
+Find your version on the [downloads page](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases). Versions marked **coming soon** are not yet available.
 
 <details>
 <summary><strong>Versions and download details</strong></summary>
@@ -40,10 +47,16 @@ Choose the version for your computer from the [downloads page](https://github.co
 
 ## Get started
 
-1. **Install Lucy.** On Mac, open the installer and drag Lucy into Applications. On Windows, extract the download and open Lucy.
+1. **Make room for Lucy.** On Mac, open the installer and drag Lucy into Applications. On Windows, extract the download and open Lucy.
 2. **Activate your access.** Enter the license code provided by the Collision team.
-3. **Start a conversation.** Tell Lucy what you would like help with.
+3. **Say hello.** Tell Lucy what you would like help with.
 
 ## Access & support
 
 Contact the **Collision team** for a license code or help getting started.
+
+---
+
+<div align="center">
+<sub>Lucy &middot; By Collision &middot; Made for your everyday work.</sub>
+</div>
