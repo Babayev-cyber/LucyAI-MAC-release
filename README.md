@@ -40,7 +40,7 @@ Find your version on the [downloads page](https://github.com/Babayev-cyber/LucyA
 | **Mac (Apple silicon and Intel)** | coming soon | | | | | |
 <!-- downloads:mac:end -->
 <!-- downloads:win:start -->
-| **Windows 64-bit (x64)** | coming soon | | | | | |
+| **Windows 64-bit (x64)** | [Download Lucy-Windows-x64.zip](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases/download/win-78fd13d21fd235aadaa0877e24532ea30db83550/Lucy-Windows-x64.zip) | 1.0.0 | 2026-09-30 | 236 MB | 0 | `b52e99a4ecc332f6…` |
 <!-- downloads:win:end -->
 
 </details>
