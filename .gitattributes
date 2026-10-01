@@ -1,0 +1,2 @@
+# Release signatures are generated cryptographic data, not Standard ML source.
+*.sig linguist-generated=true linguist-detectable=false
