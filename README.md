@@ -27,6 +27,17 @@ From a quick question to a closer look at your data, Lucy helps you move forward
 
 **Start with a simple request.** Ask Lucy to summarize a document, explain a spreadsheet, or help you take the next step.
 
+<!-- technology-showcase:start -->
+## Technology showcase
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+An illustrative language showcase, separate from this repository's source-code statistics.
+<!-- technology-showcase:end -->
+
 ## Download
 
 Find your version on the [downloads page](https://github.com/Babayev-cyber/LucyAI-MAC-release/releases). Versions marked **coming soon** are not yet available.
