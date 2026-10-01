@@ -35,7 +35,7 @@ From a quick question to a closer look at your data, Lucy helps you move forward
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-An illustrative language showcase, separate from this repository's source-code statistics.
+Explore the [standalone language templates](showcase/). These demo files are separate from Lucy's private app; the language percentages shown on GitHub describe this public showcase.
 <!-- technology-showcase:end -->
 
 ## Download
